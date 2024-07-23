@@ -13,6 +13,6 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be downloaded <span style="color:#5DADE2">[here](/files/QijiaZhou_CV.pdf)</span>.
+My CV can be downloaded <span style="color:#5DADE2">[here](/files/QijiaZhou_CV.pdf)</span>. Updated 07/23/2024.
 
-<iframe src="/files/QijiaZhou_CV.pdf" width="75%" height="660px">
+<iframe src="/files/QijiaZhou_CV.pdf" width="90%" height="660px">
