@@ -11,7 +11,7 @@ I am a first-year PhD student and NSF GRFP fellow in Astronomy at Harvard Univer
 
 <!--As an undergraduate at Harvard, -->
 
-Please feel free to reach out to me over email!
+Please feel free to reach out to me over email at qijia.zhou &#91;at&#93; cfa.harvard.edu!
 
 My name is pronounced Qijia (chee-jah) Zhou (zo).
 
