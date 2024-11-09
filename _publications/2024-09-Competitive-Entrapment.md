@@ -1,0 +1,13 @@
+---
+title: "Competitive Entrapment of Hypervolatiles in Interstellar and Cometary Water Ice Analogs"
+collection: publications
+permalink: /publication/2024-09-Competitive-Entrapment
+excerpt: 'The distribution of chemical species in protoplanetary disks around young stars, especially their division between gas and solid phases, fundamentally shapes the composition of future planets and planetesimals. This distribution is likely affected by entrapment, a mechanism whereby volatile species are mechanically or chemically bound within a less volatile ice. In this study, we experimentally investigate the entrapment efficiencies of four hypervolatiles (CH~4~, CO, N~2~, and Ar) in multicomponent water ice mixtures deposited at different temperatures and mixture ratios. We use these results to better inform interpretations of hypervolatile observations in comets and related objects.'
+date: 2024-09-10
+venue: 'The Astrophysical Journal'
+paperurl: 'http://qijiazhou.github.io/files/Competitive-Entrapment.pdf'
+---
+The distribution of chemical species in protoplanetary disks around young stars, especially their division between gas and solid phases, fundamentally shapes the composition of future planets and planetesimals. This distribution is likely affected by entrapment, a mechanism whereby volatile species are mechanically or chemically bound within a less volatile ice. In this study, we investigate the entrapment efficiencies of four hypervolatiles (CH~4~, CO, N~2~, and Ar) in multicomponent water ice mixtures deposited at different temperatures and mixture ratios. At low ice deposition temperatures, we observe small differences in entrapment efficiency (CH~4~>CO>N~2~∼Ar) up to a factor of two across species. The differences in entrapment between species increase by up to an order of magnitude with increasing deposition temperature. The relative entrapment efficiencies are also impacted by changes in the overall hypervolatile concentration of the ice mixtures. Collectively, these experiments suggest that relative entrapment efficiencies are mainly regulated by small differences in binding energies to the ice matrix, though competition for the best sites also influences entrapment in more concentrated ices. We use these results to better inform interpretations of hypervolatile observations in comets and related objects.
+
+
+<!--The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.-->
