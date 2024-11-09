@@ -2,7 +2,7 @@
 title: "Competitive Entrapment of Hypervolatiles in Interstellar and Cometary Water Ice Analogs"
 collection: publications
 permalink: /publication/2024-09-Competitive-Entrapment
-excerpt: 'The distribution of chemical species in protoplanetary disks around young stars, especially their division between gas and solid phases, fundamentally shapes the composition of future planets and planetesimals. This distribution is likely affected by entrapment, a mechanism whereby volatile species are mechanically or chemically bound within a less volatile ice. In this study, we experimentally investigate the entrapment efficiencies of four hypervolatiles (CH~4~, CO, N~2~, and Ar) in multicomponent water ice mixtures deposited at different temperatures and mixture ratios. We use these results to better inform interpretations of hypervolatile observations in comets and related objects.'
+excerpt: 'The distribution of chemical species in protoplanetary disks around young stars, especially their division between gas and solid phases, fundamentally shapes the composition of future planets and planetesimals. This distribution is likely affected by entrapment, a mechanism whereby volatile species are mechanically or chemically bound within a less volatile ice. In this study, we experimentally investigate the entrapment efficiencies of four hypervolatiles (CH<sub>4<sub>, CO, N~2~, and Ar) in multicomponent water ice mixtures deposited at different temperatures and mixture ratios. We use these results to better inform interpretations of hypervolatile observations in comets and related objects.'
 date: 2024-09-10
 venue: 'The Astrophysical Journal'
 paperurl: 'http://qijiazhou.github.io/files/Competitive-Entrapment.pdf'
