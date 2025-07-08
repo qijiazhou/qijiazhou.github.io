@@ -1,0 +1,13 @@
+body {
+  background-color: #212857; /* dark blue */
+}
+
+/* Header background */
+.site-header {
+  background-color: #02041a; /* white or any color you prefer */
+}
+
+/* Footer background */
+.site-footer {
+  background-color: #02041a; /* same here */
+}
