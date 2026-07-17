@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: white;
+  background: #212857;
   border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
@@ -43,6 +43,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    background-color: transparent !important;
   }
 }
 
@@ -50,9 +51,18 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  background-color: transparent !important;
 
   &--lg {
     padding-right: 3em;
     font-weight: 700;
+  }
+
+  a {
+    background: transparent !important;
+    // color: white !important;
+    text-decoration: none;
+    box-shadow: none;
+    
   }
 }
