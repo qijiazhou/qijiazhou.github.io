@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student and NSF GRFP fellow in Astronomy at Harvard University. I am working with my advisor [Professor Karin Öberg](https://karinoberg.cfa.harvard.edu/) to study the chemistry of planet-forming environments from an observational and laboratory perspective.
+I am a second-year PhD student and NSF GRFP fellow in Astronomy at Harvard University. I am working with my advisor [Professor Karin Öberg](https://karinoberg.cfa.harvard.edu/) to study the chemistry of planet-forming environments from an observational and laboratory perspective.
 
 <!--As an undergraduate at Harvard, -->
 
